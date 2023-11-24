@@ -1,0 +1,1 @@
+#base "spectatortournament.res"
